@@ -1,0 +1,41 @@
+{% if section.settings.show_cart_message == true %}
+<hr>
+<div id="textsection">
+  <div class="simpletext" align="center">
+    <h1> {{ section.settings.text-box }} </h1>
+    <h3> {{ section.settings.text }} </h3>
+  </div>
+</div>
+{% endif %}
+
+{% schema %}
+  {
+    "name": "Cart message",
+    "settings": [
+      {
+      "type": "checkbox",
+      "id": "show_cart_message",
+      "label": "Show cart message",
+      "default": false
+      },
+      {
+        "id": "text-box",
+        "type": "text",
+        "label": "Heading",
+        "default": "Title"
+      },
+      {
+        "id": "text",
+        "type": "richtext",
+        "label": "Add custom text below",
+        "default": "<p>Add your text here</p>"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
