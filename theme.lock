@@ -24,7 +24,7 @@ assets/vendor.js:
 assets/woman-infront-of-tree-with-berries.jpg:
   development: 2018-05-22T18:06:52-04:00   2cf2eade261c5b087c3a9ae083352f60
 config/settings_data.json:
-  development: 2018-08-24T13:01:31-04:00   93da4cdeb1dc06c65caff565320ca2fe
+  development: 2018-08-24T14:32:30-04:00   4ba84eda66496d02c7a9b572a737b5d4
 config/settings_schema.json:
   development: 2018-05-22T09:20:11-04:00   5a26c4dd60ef1d72f72a575ec50d0c2e
 layout/gift_card.liquid:
@@ -68,7 +68,7 @@ sections/collection.liquid:
 sections/custom-content.liquid:
   development: 2018-05-22T09:20:05-04:00   e2c1dabc887c9f1bc17968c97de0a29f
 sections/custom-featured-collection.liquid:
-  development: 2018-08-24T12:17:02-04:00   29948a1c2458961bb5eed001b8cf741d
+  development: 2018-08-24T14:26:28-04:00   29948a1c2458961bb5eed001b8cf741d
 sections/custom-newsletter.liquid:
   development: 2018-08-24T12:39:07-04:00   0a033b5c5b8ee4ba8b9a9bc2e21c1eb8
 sections/feature-columns.liquid:
@@ -282,7 +282,7 @@ templates/list-collections.liquid:
 templates/page.contact.liquid:
   development: 2018-05-22T09:20:11-04:00   e5ad157804a0b23ba6387683e308dfe0
 templates/page.custom-landing-page.liquid:
-  development: 2018-08-24T12:53:52-04:00   48f45acb1e47a0a544302e5b71627b45
+  development: 2018-08-24T14:09:59-04:00   28728218908b6b049e297535cd4f9e0b
 templates/page.liquid:
   development: 2018-05-22T09:20:11-04:00   26f97d3355078de5c6678ed3b34ad7f6
 templates/password.liquid:

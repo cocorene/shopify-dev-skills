@@ -220,10 +220,10 @@
       "custom-featured-collection": {
         "type": "custom-featured-collection",
         "settings": {
-          "title": "Featured collection",
-          "collection": "",
+          "title": "",
+          "collection": "jewelry",
           "grid": 3,
-          "rows": 2,
+          "rows": 3,
           "show_vendor": false,
           "show_view_all": false
         }
