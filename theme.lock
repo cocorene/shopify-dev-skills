@@ -24,7 +24,7 @@ assets/vendor.js:
 assets/woman-infront-of-tree-with-berries.jpg:
   development: 2018-05-22T18:06:52-04:00   2cf2eade261c5b087c3a9ae083352f60
 config/settings_data.json:
-  development: 2018-05-23T08:56:03-04:00   fa85330752ec71858701ac867f574cb5
+  development: 2018-08-24T13:01:31-04:00   93da4cdeb1dc06c65caff565320ca2fe
 config/settings_schema.json:
   development: 2018-05-22T09:20:11-04:00   5a26c4dd60ef1d72f72a575ec50d0c2e
 layout/gift_card.liquid:
@@ -67,6 +67,10 @@ sections/collection.liquid:
   development: 2018-05-22T09:20:05-04:00   b41a9d7edbb27db109cb50d93d0accab
 sections/custom-content.liquid:
   development: 2018-05-22T09:20:05-04:00   e2c1dabc887c9f1bc17968c97de0a29f
+sections/custom-featured-collection.liquid:
+  development: 2018-08-24T12:17:02-04:00   29948a1c2458961bb5eed001b8cf741d
+sections/custom-newsletter.liquid:
+  development: 2018-08-24T12:39:07-04:00   0a033b5c5b8ee4ba8b9a9bc2e21c1eb8
 sections/feature-columns.liquid:
   development: 2018-05-22T09:20:05-04:00   b875de4a1b8756948b6875543844a7c7
 sections/feature-row.liquid:
@@ -83,6 +87,8 @@ sections/hero.liquid:
   development: 2018-05-22T09:20:05-04:00   b75948d15b81b97297a923bc6ed33fc4
 sections/image-bar.liquid:
   development: 2018-05-22T09:20:05-04:00   7b00dff3ab435ef3a663a146cf6c3649
+sections/landing-page-cta-button.liquid:
+  development: 2018-08-24T12:49:34-04:00   0f67e9c3630656f9035a386ba5bb842e
 sections/list-collections-template.liquid:
   development: 2018-05-22T09:20:05-04:00   d17b99c3ebe1304c75ab4923e7959e93
 sections/logo-bar.liquid:
@@ -275,6 +281,8 @@ templates/list-collections.liquid:
   development: 2018-05-22T09:20:11-04:00   d42f6d6957169811896f646709d353d9
 templates/page.contact.liquid:
   development: 2018-05-22T09:20:11-04:00   e5ad157804a0b23ba6387683e308dfe0
+templates/page.custom-landing-page.liquid:
+  development: 2018-08-24T12:53:52-04:00   48f45acb1e47a0a544302e5b71627b45
 templates/page.liquid:
   development: 2018-05-22T09:20:11-04:00   26f97d3355078de5c6678ed3b34ad7f6
 templates/password.liquid:

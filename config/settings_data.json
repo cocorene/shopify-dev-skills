@@ -216,6 +216,34 @@
           "text-box": "Handmade Production Time",
           "text": "<p>We take great care in making our products. Please allow 7-10 days to create your items, prior to shipping.<\/p>"
         }
+      },
+      "custom-featured-collection": {
+        "type": "custom-featured-collection",
+        "settings": {
+          "title": "Featured collection",
+          "collection": "",
+          "grid": 3,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "custom-newsletter": {
+        "type": "custom-newsletter",
+        "settings": {
+          "show_custom_newsletter": true,
+          "section_title": "Get Updates",
+          "subheading": "Find out when new deals drop!!!",
+          "show_background": true
+        }
+      },
+      "landing-page-cta-button": {
+        "type": "landing-page-cta-button",
+        "settings": {
+          "show_landing_page_cta_button": true,
+          "link": "shopify:\/\/collections\/all",
+          "linktext": "Shop All Products"
+        }
       }
     },
     "content_for_index": [
